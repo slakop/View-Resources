@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">View &amp; Resources</string>
     <string name="page_title">Ivan Petrov</string>
@@ -20,7 +21,7 @@
     <string name="name_user">Ivan Petrov</string>
     <string name="city_user">Tokyo</string>
     <string name="country_user">Australia</string>
-    <string name="date_user">24.10.2025</string>
+    <string name="date_user">Birthday</string>
     <string name="notes_user">Loves burgers and french fries</string>
     <string name="login">Login</string>
     <string name="login_user">ivanpetrov</string>
@@ -36,5 +37,4 @@
     <string name="price">35$</string>
     <string name="category">Category</string>
     <string name="description">Description</string>
-
 </resources>
